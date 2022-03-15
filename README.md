@@ -1,1 +1,0 @@
-# UtProsat-IMU-Breakout-Board
